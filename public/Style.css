@@ -1,0 +1,239 @@
+p.title1{
+    position:absolute;
+    width:704px;
+    height:45px;
+    top:9px;
+    right:300px;
+}
+p.user{
+    position:absolute;
+    width:102px;
+    height:27px;
+    top:201px;
+    right:500px;
+}
+p.password{
+    position:absolute;
+    width:102px;
+    height:27px;
+    top:265px;
+    right:500px;
+}
+
+img.center{
+    position:absolute;
+    width:200px;
+    height:225px;
+    top:180px;
+    left:400px;
+    
+}
+img{
+    position:absolute;
+    width:150px;
+    height:100px;
+    top:130px;
+    right:430px;
+    
+}
+.menu-btn{
+   position:absolute;
+   right:140px;
+   top:105px;
+   
+}
+div.v1{
+    position:absolute;
+    border-left: 6px solid rgb(125, 128, 125);
+    width:7px;
+    height:328px;
+    top:100px;
+    right:700px;
+
+}
+input.container{
+    position:absolute;
+    width:250px;
+    height:27px;
+    top:250px;
+    right:350px;
+  
+}
+input.box{
+    position:absolute;
+    width:250px;
+    height:27px;
+    top:310px;
+    right:350px;
+}
+button.log{
+    position:absolute;
+    width:50px;
+    height:27px;
+    top:350px;
+    right:500px;
+}
+input.Rem{
+    position:absolute;
+    width:40px;
+    height:20px;
+    top:350px;
+    right:465px;
+}
+p.R{
+   position:absolute;
+   width:200px;
+   height:20px;
+   top:330px;
+   right:270px 
+}
+
+/* Home page Design code*/
+
+img.H{
+    position:absolute;
+    width:50px;
+    height:50px;
+    top:20px;
+    left:500px;
+}
+p.title1{
+    width:500px;
+    height:5px;
+    top:0.0001cm;
+    left:560px;
+}
+hr{
+    background-color:rgb(168, 166, 166);
+    border: solid rgb(161, 161, 161);
+    position: relative;
+    width:90%;
+    height:2px;
+    top: 70px;
+    left:10px;
+    right:10px; 
+}
+table,th,td{
+    position:relative;
+    border-spacing:10px;
+    border-collapse: collapse;
+    top:15px;
+    left:430px;
+  }
+  th,td {
+   padding:2px;
+  }
+  
+  p.leave{
+      position:relative;
+      width:200px;
+      background-color:rgb(168, 166, 166);
+      font-size: large;
+      top:30px;
+      left:95px;
+  }
+  p.t1{
+    position:relative;
+    font-size: large;
+    top:20px;
+    left:95px;
+  }
+  p.t2{
+    position:relative;
+    width:200px;
+    background-color:rgb(168, 166, 166);
+    font-size: large;
+    top:60px;
+    left:95px;
+  }
+p.t3{
+    position:relative;
+    width:990px;
+    font-size: large;
+    top:60px;
+    left:95px;
+}
+p.t4{
+    position:relative;
+    background-color:rgb(168, 166, 166);
+    width:200px;
+    font-size: large;
+    top:100px;
+    left:95px;
+
+}
+p.t5{
+    position:relative;
+    background-color:rgb(168, 166, 166);
+    width:200px;
+    font-size: large;
+    top:155px;
+    left:95px;
+
+}
+hr.hr1{
+    background-color:rgb(168, 166, 166);
+    border: solid rgb(161, 161, 161);
+    position: relative;
+    width:90%;
+    top:70px;
+    height:35px;
+}
+button.c{
+    position:absolute;
+    top:210px;
+    width:200px;
+    left:100px;
+    background-color:rgb(103, 103, 248);
+
+}
+button.d{
+    position:absolute;
+    top:210px;
+    width:200px;
+    left:340px;
+    background-color:rgb(103, 103, 248);
+
+}
+button.v{
+    position:absolute;
+    top:210px;
+    width:200px;
+    right:590px;
+    background-color:rgb(103, 103, 248);
+}
+button.s{
+    position:absolute;
+    top:210px;
+    width:200px;
+    right:340px;
+    background-color:rgb(103, 103, 248);
+}
+button.s1{
+    position:absolute;
+    top:210px;
+    width:200px;
+    right:100px;
+    background-color:rgb(103, 103, 248);
+}
+button.f{
+    position:absolute;
+    top:340px;
+    width:200px;
+    left:100px;
+    background-color:rgb(103, 103, 248);
+}
+button.f1{
+    position:absolute;
+    top:440px;
+    width:200px;
+    left:100px;
+    background-color:rgb(103, 103, 248);
+}
+button.f2{
+    position:absolute;
+    top:530px;
+    width:200px;
+    left:100px;
+    background-color:rgb(103, 103, 248);
+}
